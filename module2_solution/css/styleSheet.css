@@ -20,7 +20,10 @@ h3 {
 	text-align: center;
 	width: 30%;
 	float: right;
-	margin: 0;
+	font-size: 125%;
+	
+	opacity: 0.8;	
+
 
 	}
 
@@ -28,6 +31,7 @@ div{
 	background-color: #E1E1E1;
 	border: 2px solid;
 	margin: 20px;
+	position: relative;
 	
 }
 
