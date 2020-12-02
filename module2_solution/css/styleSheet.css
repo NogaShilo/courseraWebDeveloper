@@ -16,7 +16,7 @@ h1 {
 }
 
 h3 {
-	border: 2px solid;
+	border: 3px solid;
 	text-align: center;
 	width: 30%;
 	float: right;
@@ -29,7 +29,7 @@ h3 {
 
 div{
 	background-color: #E1E1E1;
-	border: 2px solid;
+	border: 3px solid;
 	margin: 20px;
 	position: relative;
 	
